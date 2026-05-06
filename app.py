@@ -1,7 +1,8 @@
 import streamlit as st
 import pickle
 import numpy as np
-
+import warnings
+warnings.filterwarnings("ignore")
 # Load the trained model
 with open('lightgbm.pkl', 'rb') as file:
     model = pickle.load(file)
