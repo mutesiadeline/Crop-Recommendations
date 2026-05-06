@@ -1,10 +1,10 @@
 # 🌾 Machine Learning-Based Crop Recommendation System (Rwanda)
 
 ## 📌 Project Overview
-This project uses machine learning to recommend the most suitable crop based on environmental and soil conditions in Rwanda. It helps farmers make data-driven decisions to improve agricultural productivity.
+This project leverages machine learning to provide crop recommendations based on soil nutrients and environmental conditions, aiming to support farmers in Rwanda with more accurate and data-driven decision-making.
 ---
 ## 🌐 Live Demo
-👉 https://crop-recommendations-wykt9frqd8uhlevrz9kqpj.streamlit.app/
+https://crop-recommendations-wykt9frqd8uhlevrz9kqpj.streamlit.app/
 ---
 ## 🎯 Objectives
 - Predict the most suitable crops for specific environmental conditions
