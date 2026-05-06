@@ -3,9 +3,9 @@
 ## 📌 Project Overview
 This project leverages machine learning to provide crop recommendations based on soil nutrients and environmental conditions, aiming to support farmers in Rwanda with more accurate and data-driven decision-making.
 
-## 📂 Dataset
-The dataset contains soil nutrients and environmental conditions used to train the model
-Features include N, P, K, temperature, humidity, pH, and rainfall
+📂 Dataset
+The dataset contains soil nutrients and environmental conditions used to train the model.
+Features include N, P, K, temperature, humidity, pH, and rainfall.
 
 ## 🌐 Live Demo
 https://crop-recommendations-wykt9frqd8uhlevrz9kqpj.streamlit.app/
@@ -24,7 +24,7 @@ https://crop-recommendations-wykt9frqd8uhlevrz9kqpj.streamlit.app/
 - Pandas / NumPy
 - Scikit-learn
 ---
-## ✨ Features
+✨ Features
 Real-time crop prediction using a web interface
 Machine learning-powered recommendations
 Fast and interactive results via Streamlit
