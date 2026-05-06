@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project leverages machine learning to provide crop recommendations based on soil nutrients and environmental conditions, aiming to support farmers in Rwanda with more accurate and data-driven decision-making.
----
+
 ## 🌐 Live Demo
 https://crop-recommendations-wykt9frqd8uhlevrz9kqpj.streamlit.app/
 ---
@@ -33,23 +33,22 @@ https://crop-recommendations-wykt9frqd8uhlevrz9kqpj.streamlit.app/
 ---
 
 ## 🚀 How It Works
-1. Collect environmental data
+1. Collect environmental data through the Streamlit app
 2. Preprocess the dataset
-3. Train a machine learning model
-4. Predict the best suitable crop based on input values
+3. Feed data into the trained LightGBM model
+4. Predict the most suitable crop
+5. Display results in real time
 
 ---
-
 ## 📈 Output
-The system recommends the most suitable crop variety for the given environmental conditions.
+The system recommends the most suitable crop based on the given environmental conditions.
 
 ---
-
-
 📌 Future Improvements
 - Improve model accuracy with larger datasets
-- Deploy as a web application
 - Integrate real-time weather data
-
+- Add fertilizer recommendation system
+- Improve UI/UX of the web application
+  
 👩‍💻 Author  
 Adeline Mutesi
