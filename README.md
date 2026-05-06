@@ -44,13 +44,11 @@ The system recommends the most suitable crop variety for the given environmental
 
 ---
 
-## 👩‍💻 Author
-Adeline Mutesi
 
----
-
-## 📌 Future Improvements
+📌 Future Improvements
 - Improve model accuracy with larger datasets
 - Deploy as a web application
-- Integrate real-time weather data# Crop-Recommendations
-Crop recommendation system using python
+- Integrate real-time weather data
+
+👩‍💻 Author  
+Adeline Mutesi
