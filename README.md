@@ -3,7 +3,9 @@
 ## 📌 Project Overview
 This project uses machine learning to recommend the most suitable crop based on environmental and soil conditions in Rwanda. It helps farmers make data-driven decisions to improve agricultural productivity.
 ---
-
+## 🌐 Live Demo
+👉 https://crop-recommendations-wykt9frqd8uhlevrz9kqpj.streamlit.app/
+---
 ## 🎯 Objectives
 - Predict the most suitable crops for specific environmental conditions
 - Support data-driven agricultural planning
