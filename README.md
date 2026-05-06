@@ -15,10 +15,10 @@ https://crop-recommendations-wykt9frqd8uhlevrz9kqpj.streamlit.app/
 
 ## 🛠️ Technologies Used
 - Python
-- Machine Learning (e.g., classification algorithms)
+- LightGBM (Machine Learning Model)
+- Streamlit (Web Application)
 - Pandas / NumPy
-- Scikit-learn (if used)
-
+- Scikit-learn
 ---
 
 ## 📊 Input Features
